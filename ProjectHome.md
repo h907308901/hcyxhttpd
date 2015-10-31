@@ -1,0 +1,1 @@
+A simple HTTP server developed in VB6, with some basic functions.
